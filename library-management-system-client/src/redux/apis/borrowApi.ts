@@ -13,8 +13,7 @@ interface ApiResponse<T> {
 export const borrowApi = createApi({
     reducerPath: "borrowApi",
     baseQuery: fetchBaseQuery({
-        baseUrl: import.meta.env.VITE_API_URL || "http://localhost:5000/api",
-        credentials: "include",
+        baseUrl: import.meta.env.VITE_API_URL,
     }),
     tagTypes: ["Borrow"],
     endpoints: (builder) => ({

@@ -12,7 +12,6 @@ app.use(
             "https://library-management-system-client-silk.vercel.app",
             "http://localhost:5173",
         ],
-        credentials: true,
     })
 );
 
