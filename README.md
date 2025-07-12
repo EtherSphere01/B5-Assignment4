@@ -6,7 +6,7 @@ This is the frontend for the Library Management System, a client-side applicatio
 
 [Library Management System Frontend](https://github.com/EtherSphere01/B5-Assignment4/tree/main/library-management-system-client).
 
-### Live Link: [https://library-management-system.vercel.app/](https://library-management-system.vercel.app/)
+### Live Link: [https://library-management-system.vercel.app/](https://library-management-system-client-silk.vercel.app/)
 
 ---
 

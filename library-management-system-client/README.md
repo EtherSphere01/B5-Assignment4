@@ -2,9 +2,9 @@
 
 This is the frontend for the Library Management System, a client-side application built with React, Redux Toolkit, and TypeScript.
 
-### Live Link Frontend: [https://library-management-system.vercel.app/](https://library-management-system.vercel.app/)
+### Live Link Frontend: [https://library-management-system.vercel.app/](https://library-management-system-client-silk.vercel.app/)
 
-### Live Link Backend: [https://library-management-system-api-seven.vercel.app/](https://library-management-system-api-seven.vercel.app/)
+### Live Link Backend: [https://library-management-system-api-seven.vercel.app/](https://library-management-system-server-jet.vercel.app/)
 
 [Library Management System Backend](https://github.com/EtherSphere01/B5-Assignment4/tree/main/library-management-system-server).
 
