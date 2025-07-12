@@ -2,7 +2,13 @@
 
 A comprehensive Library Management System built with Express, TypeScript, and MongoDB.
 
-### Live Link: https://library-management-system-api-seven.vercel.app/
+### Live Link Frontend: [https://library-management-system.vercel.app/](https://library-management-system.vercel.app/)
+
+### Live Link Backend: [https://library-management-system-api-seven.vercel.app/](https://library-management-system-api-seven.vercel.app/)
+
+[Library Management System Backend](https://github.com/EtherSphere01/B5-Assignment4/tree/main/library-management-system-server).
+
+[Library Management System Frontend](https://github.com/EtherSphere01/B5-Assignment4/tree/main/library-management-system-client).
 
 ## 🚀 Features
 
@@ -245,6 +251,3 @@ The API returns consistent error responses:
     "error": "Only 2 copies available, but 5 requested"
 }
 ```
-
-
-
