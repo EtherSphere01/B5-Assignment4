@@ -63,6 +63,7 @@ export default function BookList() {
     }
 
     if (error) {
+        console.error("Error fetching books:", error);
         return (
             <div className="flex items-center justify-center min-h-screen">
                 <div className="text-center bg-red-50 border border-red-200 rounded-xl p-8 max-w-md">
